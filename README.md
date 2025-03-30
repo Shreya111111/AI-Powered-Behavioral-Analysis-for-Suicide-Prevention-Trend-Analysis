@@ -1,4 +1,4 @@
-# AI powered Behavioral Analysis for Suicide Prevention Using Reddit Scraper with Sentiment and Trend Analysis using Geolocation
+## AI Powered Behavioral Analysis for Suicide Prevention Using Reddit Scraper with Sentiment and Trend Analysis using Geolocation
 
 ## Overview
 This project extracts data from Reddit using the PRAW API, cleans the extracted text, performs sentiment analysis, and visualizes high-risk posts using a heatmap.
