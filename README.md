@@ -53,13 +53,13 @@ The script will:
 The script categorizes posts into different risk levels based on predefined keywords.
 
 ### High Risk Keywords
-- depressed, end, struggle, anxiety, depression, suicide, hopeless, worthless, no way out, can't go on, giving up, ending it, goodbye, life is meaningless, self-harm, hurting myself
+- ```depressed, end, struggle, anxiety, depression, suicide, hopeless, worthless, no way out, can't go on, giving up, ending it, goodbye, life is meaningless, self-harm, hurting myself```
 
 ### Moderate Risk Keywords
-- lost, overwhelmed, struggling, help, feeling lost, not okay, empty, tired, burned out, drained, can't focus, frustrated, confused
+- ```lost, overwhelmed, struggling, help, feeling lost, not okay, empty, tired, burned out, drained, can't focus, frustrated, confused, stressed```
 
 ### Low Risk Keywords
-- stressed, nervous, uncertain, down, sad, not feeling great, need advice, feeling off
+- ``` nervous, uncertain, down, sad, not feeling great, need advice, feeling off```
 
 ## Output
 ### Sentiment and Risk Classification
@@ -76,8 +76,19 @@ Life is tough but I'll manage | Positive | Low Concern
 
 - **Bar plots** for sentiment and risk distribution.
 - **Heatmap** showing crisis posts' locations.
+  
+### Outputs / Images
 
-
+## Mental Heath Scrapped Data from the Reddit API
+![image (32)](https://github.com/user-attachments/assets/8438d7b1-9475-49be-92c9-62ab26dbab65)
+## Sentimental Score based on Mental Health Data
+![image (33)](https://github.com/user-attachments/assets/6a1c8f95-aae3-4b8d-9b38-45030eb1bc1e)
+## Classification of the Sentiments (Low/Moderate/High Concern)
+![image (31)](https://github.com/user-attachments/assets/1253163f-7d97-4b3f-b98e-e3615ce7c039)
+## Distribution of Sentiments
+![image (30)](https://github.com/user-attachments/assets/623696c5-a463-42a5-b2a0-02b8192fe115)
+## Generating heatmaps showing Crisis Detection (Geolocation)
+![image (29)](https://github.com/user-attachments/assets/04260d22-5e6b-4d41-b0d6-d58170ef33c0)
 
 ## Author
 Developed by **Shreya S. Nalawade**
