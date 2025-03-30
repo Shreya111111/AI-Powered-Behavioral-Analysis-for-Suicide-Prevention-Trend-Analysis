@@ -3,6 +3,18 @@
 ## Overview
 This project extracts data from Reddit using the PRAW API, cleans the extracted text, performs sentiment analysis, and visualizes high-risk posts using a heatmap.
 
+## Repository Contents
+
+The repository contains all files related to this project(TASK 1,2 & 3), including:
+
+- Cleaned data (cleaned_reddit_data.csv)
+
+- Generated heatmap (crisis_heatmap.html)
+
+- Output images 
+
+- Jupyter Notebook and Python scripts for analysis
+  
 ## Features
 - **Scrape Reddit posts** from a specific subreddit based on mental health keywords.
 - **Clean text data** by removing URLs, special characters, and stopwords.
